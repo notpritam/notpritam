@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on few personal projects<br>👯 I’m looking to collaborate on some interesting projects<br>🌱 I’m currently learning Next JS
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pritam Sharma
+=====================================================================================================================================
+
+MERN & Flutter Developer
+------------------------
+
+* 🌍  I'm based in Bangalore
+* 🖥️  See my portfolio at [NotPritam.in](http://notpritam.in)
+* ✉️  You can contact me at [notpritamsharma@gmail.com](mailto:notpritamsharma@gmail.com)
+* 🧠  I'm learning NextJS
+* 🤝  I'm open to collaborating on some interesting projects..
 
 
 ## 🌐 Socials:
