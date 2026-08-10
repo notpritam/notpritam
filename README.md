@@ -1,27 +1,117 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pritam Sharma
-=====================================================================================================================================
+<h1 align="center">Pritam Sharma</h1>
 
-Software Developer
-------------------------
+<p align="center"><b>Builder at core, engineer by craft</b></p>
 
-* 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [NotPritam.in](http://notpritam.in)
-* ✉️  You can contact me at [notpritamsharma@gmail.com](mailto:notpritamsharma@gmail.com)
-* 🤝  I'm open to collaborating on some interesting projects..
+<p align="center">
+  Founding software engineer at <a href="https://emergent.sh"><b>Emergent</b></a> <code>YC S24</code> · Bangalore, India
+</p>
 
+<p align="center">
+  <a href="https://notpritam.in"><img src="https://img.shields.io/badge/notpritam.in-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://linkedin.com/in/notpritamsharma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/notpritamsharma"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="mailto:notpritamsharma@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/notpritam) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/notpritamsharma) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notpritamsharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/notpritamsharma) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/notpritam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/notpritamsharma) 
-
-# 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=notpritam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=notpritam&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=notpritam&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center">
+  <sub>Two accounts, one person — <a href="https://github.com/notpritam"><b>@notpritam</b></a> (personal) and <a href="https://github.com/notpritamm"><b>@notpritamm</b></a> (day job). <a href="#-activity">Merged graph below.</a></sub>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=notpritam&icon=8&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `// about`
+
+I build calm, fast products — from scratch and at scale.
+
+Right now I'm a **founding software engineer at [Emergent](https://emergent.sh) (YC S24)**, the AI app
+builder that went from YC Demo Day to a **$1.5B valuation in ~14 months** — $130M Series C (Jul 2026),
+$120M annual run-rate, 200K+ paying customers, India's 6th unicorn of 2026.
+
+I own the frontend there. For most of the foundation phase that meant **one of two people** carrying
+every product surface, shipping **3–4 features a day**.
+
+- 🧱 &nbsp;3+ years shipping production · 12+ products end-to-end · millions of users reached
+- 🤖 &nbsp;Most of what I build now is **AI product engineering** — LLM apps, agents, and the tooling around them
+- 🌏 &nbsp;Bangalore, India · IST (UTC+5:30) · he/him
+- 🤝 &nbsp;Open to interesting collaborations — [say hi](https://notpritam.in)
+
+## `// what I've shipped at Emergent`
+
+| | |
+|---|---|
+| **Core chat experience** | Rebuilt it and shipped to production in a week with zero functional regressions |
+| **Emergent mobile** | Sole developer — ported the full web platform to React Native + Expo, driving **$20K+/day** |
+| **Performance** | Cut page load from **7s → under 1s** |
+| **Light theme** | Drove a **+15% conversion lift** and measurably better retention |
+| **Landing page editor** | JSON → static HTML. Compressed 1–2 week marketing cycles to **20 minutes**, pages served in 0.3s |
+| **Visual Edit Mode** | Customize your app without AI — no credits burned. Working POC in **1 day** |
+| **AI PR review system** | Self-learning feedback loop — review turnaround **2h → 20min** |
+| **Design system** | Automated it so designers ship UI fixes themselves, with zero engineering involvement |
+
+## `// featured work`
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[personae](https://github.com/notpritam/personae)** | AI avatar platform — autonomous personas on Instagram, Telegram & X, with voice and face generation | `React` `Hono` `Claude API` `ElevenLabs` |
+| **[forge](https://github.com/notpritam/forge)** | Self-improving AI video pipeline — stage-gated, 5 renderers, 130+ viral rules distilled from 35+ sources | `Remotion` `Manim` `Three.js` `FFmpeg` |
+| **[lorekeeper](https://github.com/notpritam/lorekeeper)** | AI story workbench — versioned character state and knowledge matrices for narrative consistency | `React` `Hono` `Claude CLI` |
+| **[caseboard](https://github.com/notpritam/caseboard)** | Multiplayer AI mystery game — tool-use evidence reveal, real-time SSE streaming | `React` `Claude SDK` `SSE` |
+| **[limpet](https://github.com/notpritam/limpet)** | Run your Mac off an external SSD with automatic local failover and conflict-safe merge-back. Single-file bash, no kext, no daemon | `Shell` |
+| **[daylog](https://github.com/notpritam/daylog)** | Mirrors every Claude Code session into Obsidian — daily notes, rollups, 8-axis auto-tagging | `Python` |
+| **[beacon](https://github.com/notpritam/beacon)** | Gives a cloud agent safe, durable control of your laptop — MCP + queue | `Go` |
+| **[myCodeJudge](https://github.com/notpritam/myCodeJudge)** ⭐ 42 | LeetCode-style online judge — multi-language execution with sandboxed server safety | `TypeScript` `Docker` |
+
+I also write and maintain agent skills — [explanimate](https://github.com/notpritam/explanimate)
+(animated React explainers rendered to video), [claude-canvas](https://github.com/notpritam/claude-canvas)
+(interactive React Flow diagrams), and [cmux](https://github.com/notpritam/cmux) (a Ghostty-based
+terminal built for running AI coding agents).
+
+## `// stack`
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Motion">
+
+**Mobile & Desktop**
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+
+**Backend & Data**
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"> <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+
+**AI**
+
+<img src="https://img.shields.io/badge/Claude_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude SDK"> <img src="https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs"> <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP">
+
+**Infra & Tooling**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" alt="Playwright"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+
+## `// writing`
+
+- [**How We Built a No-Code Landing Page Editor That Ships Static Pages in Minutes**](https://notpritam.in) — we automated ourselves out of changing hex codes for a living
+- [**Award Winning Marquee Animation with Framer Motion**](https://notpritam.in) — building a smooth, performant marquee
+
+More at [notpritam.in](https://notpritam.in).
+
+## `// activity`
+
+I ship from two GitHub accounts. **Both are me:**
+
+| Account | Used for | What lives there |
+|---|---|---|
+| **[@notpritam](https://github.com/notpritam)** | personal | side projects, agent skills, open source — you're on it |
+| **[@notpritamm](https://github.com/notpritamm)** | day job | Emergent production work |
+
+GitHub won't merge contribution graphs across accounts, so I merge them myself — this one is
+generated daily from both calendars, summed day by day:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
+  <img alt="Combined contribution graph for @notpritam and @notpritamm" src="./assets/contributions-dark.svg">
+</picture>
+
+Most of it is private — Emergent's product surfaces don't show up as green squares with repo names
+attached, but they're the bulk of the work.

@@ -1,0 +1,47 @@
+name: Refresh combined contribution graph
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # daily, 03:17 UTC (~08:47 IST)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/contrib_graph.py"
+      - ".github/workflows/contrib-graph.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contrib-graph
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate merged graph
+        # Needs a classic PAT with read:user (the default GITHUB_TOKEN cannot read
+        # a user's contribution calendar). Either account's token works for both.
+        env:
+          GH_TOKEN: ${{ secrets.CONTRIB_TOKEN }}
+        run: python3 .github/scripts/contrib_graph.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets/; then
+            echo "No change."
+            exit 0
+          fi
+          git add assets/
+          git commit -m "chore: refresh combined contribution graph"
+          git push
