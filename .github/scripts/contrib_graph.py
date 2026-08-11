@@ -3,10 +3,14 @@
 
 GitHub has no way to combine contribution graphs across accounts, so we pull each
 account's calendar from the GraphQL API, sum them day by day, and draw the grid
-ourselves. Emits a dark and a light SVG; the README picks one via <picture>.
+ourselves. Emits a dark and a light SVG plus contributions.json, which
+refresh_readme.py reads to build the stats line.
 
-Needs a token with read:user. Either account's token can read the other's totals
-(including its private-contribution count), so one PAT covers both.
+Needs any GitHub token — the contribution calendar is public data, so the scopes
+don't matter. Either account's token can read the other's totals.
+
+If the API is unreachable we exit 0 without touching anything: the committed SVGs
+from the last good run stay in place rather than the profile going blank.
 """
 
 import json
@@ -62,6 +66,10 @@ MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
           "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
 
+class Unavailable(Exception):
+    """GitHub didn't answer. Keep whatever we generated last time."""
+
+
 def fetch(login, token):
     req = urllib.request.Request(
         "https://api.github.com/graphql",
@@ -75,12 +83,14 @@ def fetch(login, token):
     try:
         payload = json.loads(urllib.request.urlopen(req, timeout=30).read().decode())
     except urllib.error.HTTPError as exc:
-        sys.exit(f"GitHub API error for {login}: {exc.code} {exc.read().decode()[:300]}")
+        raise Unavailable(f"{login}: HTTP {exc.code} {exc.read().decode()[:300]}")
+    except urllib.error.URLError as exc:
+        raise Unavailable(f"{login}: {exc.reason}")
     if "errors" in payload:
-        sys.exit(f"GraphQL error for {login}: {payload['errors']}")
-    user = payload["data"]["user"]
+        raise Unavailable(f"{login}: GraphQL {payload['errors']}")
+    user = payload.get("data", {}).get("user")
     if user is None:
-        sys.exit(f"No such user: {login}")
+        raise Unavailable(f"{login}: no such user (or token can't see them)")
     return user["contributionsCollection"]
 
 
@@ -231,9 +241,16 @@ def render(days, stats, per_account, theme_name):
 def main():
     token = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
     if not token:
-        sys.exit("Set GH_TOKEN (needs read:user).")
+        print("::warning::No GH_TOKEN/GITHUB_TOKEN — keeping the existing graph.")
+        return 0
 
-    days, stats, per_account = collect(token)
+    try:
+        days, stats, per_account = collect(token)
+    except Unavailable as exc:
+        # Never fail the run over this. A stale graph beats a broken profile.
+        print(f"::warning::Contribution API unavailable ({exc}) — keeping the existing graph.")
+        return 0
+
     os.makedirs(OUT_DIR, exist_ok=True)
 
     for theme in THEMES:
@@ -244,12 +261,18 @@ def main():
 
     with open(os.path.join(OUT_DIR, "contributions.json"), "w") as fh:
         json.dump(
-            {"generated": date.today().isoformat(), "accounts": per_account, **stats},
+            {
+                "generated": date.today().isoformat(),
+                "accounts": per_account,
+                **stats,
+                "days": dict(days),
+            },
             fh,
             indent=2,
         )
     print(json.dumps(stats))
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

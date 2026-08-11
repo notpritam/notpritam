@@ -113,5 +113,32 @@ generated daily from both calendars, summed day by day:
   <img alt="Combined contribution graph for @notpritam and @notpritamm" src="./assets/contributions-dark.svg">
 </picture>
 
+<!-- STATS:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/current_streak-2_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 2 days"> <img src="https://img.shields.io/badge/longest_streak-18_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 18 days"> <img src="https://img.shields.io/badge/last_30_days-723-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 723"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-282_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 282 of 365">
+</p>
+<!-- STATS:END -->
+
 Most of it is private — Emergent's product surfaces don't show up as green squares with repo names
 attached, but they're the bulk of the work.
+
+**Latest public pushes** — the private half doesn't show up here:
+
+<!-- RECENT:START -->
+| Repo | What | When |
+|---|---|---|
+| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 3m ago |
+| **[be10x](https://github.com/notpritam/be10x)** | pushed to `main` | 20d ago |
+| **[limpet](https://github.com/notpritam/limpet)** | pushed to `main` | 28d ago |
+<!-- RECENT:END -->
+
+---
+
+<!-- QUOTE:START -->
+> *The road to production is paved with 'it works on my machine.'*
+>
+> — **Anonymous**
+<!-- QUOTE:END -->
+
+<sub>Graph, stats and quote refresh themselves every morning via
+[a GitHub Action](./.github/workflows/contrib-graph.yml). Nothing on this page is typed by hand twice.</sub>
