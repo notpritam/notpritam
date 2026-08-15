@@ -127,8 +127,8 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 17h ago |
-| **[be10x](https://github.com/notpritam/be10x)** | pushed to `main` | 23d ago |
+| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | yesterday |
+| **[be10x](https://github.com/notpritam/be10x)** | pushed to `main` | 24d ago |
 <!-- RECENT:END -->
 
 ---
