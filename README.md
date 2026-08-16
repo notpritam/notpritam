@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-5_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 5 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-754-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 754"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-287_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 287 of 365">
+  <img src="https://img.shields.io/badge/current_streak-0_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 0 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-746-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 746"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-281_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 281 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -134,9 +134,9 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Programming is the art of telling another human what one wants the computer to do.*
+> *Talk is cheap. Show me the code.*
 >
-> — **Donald Knuth**
+> — **Linus Torvalds**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
