@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-1_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 1 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-747-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 747"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-282_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 282 of 365">
+  <img src="https://img.shields.io/badge/current_streak-1_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 1 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-442-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 442"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-282_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 282 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -134,7 +134,7 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Make it work, make it right, make it fast.*
+> *Optimism is an occupational hazard of programming. Feedback is the treatment.*
 >
 > — **Kent Beck**
 <!-- QUOTE:END -->
