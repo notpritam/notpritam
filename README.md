@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-3_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 3 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-376-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 376"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-284_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 284 of 365">
+  <img src="https://img.shields.io/badge/current_streak-3_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 3 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-346-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 346"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-284_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 284 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,17 +127,17 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 6h ago |
-| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v0.2.6 | 6h ago |
+| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 18h ago |
+| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v0.2.6 | 18h ago |
 | **[be10x](https://github.com/notpritam/be10x)** | pushed to `main` | 28d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*
+> *The best error message is the one that never shows up.*
 >
-> — **Martin Fowler**
+> — **Thomas Fuchs**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
