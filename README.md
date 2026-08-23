@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-6_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 6 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-347-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 347"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-282_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 282 of 365">
+  <img src="https://img.shields.io/badge/current_streak-7_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 7 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-393-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 393"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-283_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 283 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,8 +127,10 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 3d ago |
-| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v0.2.6 | 3d ago |
+| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 1m ago |
+| **[4amcasino](https://github.com/notpritamm/4amcasino)** | pushed to `main` | 1h ago |
+| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 4d ago |
+| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v0.2.6 | 4d ago |
 <!-- RECENT:END -->
 
 ---
