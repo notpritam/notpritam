@@ -127,9 +127,9 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 5h ago |
-| **[exverse](https://github.com/notpritamm/exverse)** | created a branch | 6h ago |
-| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 7h ago |
+| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 9h ago |
+| **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 17h ago |
+| **[exverse](https://github.com/notpritamm/exverse)** | created a branch | 18h ago |
 | **[4amcasino](https://github.com/notpritamm/4amcasino)** | pushed to `main` | yesterday |
 | **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 5d ago |
 <!-- RECENT:END -->
@@ -137,9 +137,9 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*
+> *First, solve the problem. Then, write the code.*
 >
-> — **Anonymous**
+> — **John Johnson**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
