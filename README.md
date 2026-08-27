@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-10_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 10 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-490-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 490"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-286_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 286 of 365">
+  <img src="https://img.shields.io/badge/current_streak-11_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 11 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-495-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 495"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-287_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 287 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,17 +127,17 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 2h ago |
-| **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 2d ago |
-| **[exverse](https://github.com/notpritamm/exverse)** | created a branch | 2d ago |
-| **[4amcasino](https://github.com/notpritamm/4amcasino)** | pushed to `main` | 3d ago |
-| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 7d ago |
+| **[precmd](https://github.com/notpritam/precmd)** | pushed to `main` | 31m ago |
+| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 7h ago |
+| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | yesterday |
+| **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 3d ago |
+| **[exverse](https://github.com/notpritamm/exverse)** | created a branch | 3d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *The most damaging phrase in the language is: 'We've always done it this way.'*
+> *It's easier to ask forgiveness than it is to get permission.*
 >
 > — **Grace Hopper**
 <!-- QUOTE:END -->
