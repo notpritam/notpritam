@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-12_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 12 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-440-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 440"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-288_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 288 of 365">
+  <img src="https://img.shields.io/badge/current_streak-12_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 12 days"> <img src="https://img.shields.io/badge/longest_streak-19_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 19 days"> <img src="https://img.shields.io/badge/last_30_days-443-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 443"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-288_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 288 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,11 +127,11 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 7h ago |
-| **[precmd](https://github.com/notpritam/precmd)** | pushed to `main` | 10h ago |
-| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | yesterday |
-| **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 3d ago |
-| **[exverse](https://github.com/notpritamm/exverse)** | created a branch | 3d ago |
+| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 22h ago |
+| **[precmd](https://github.com/notpritam/precmd)** | pushed to `main` | yesterday |
+| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 2d ago |
+| **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 4d ago |
+| **[exverse](https://github.com/notpritamm/exverse)** | created a branch | 4d ago |
 <!-- RECENT:END -->
 
 ---
