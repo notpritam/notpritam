@@ -127,10 +127,10 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[precmd](https://github.com/notpritam/precmd)** | pushed to `main` | 17h ago |
+| **[precmd](https://github.com/notpritam/precmd)** | pushed to `main` | 11h ago |
 | **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | yesterday |
 | **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 3d ago |
-| **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 4d ago |
+| **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 5d ago |
 | **[exverse](https://github.com/notpritamm/exverse)** | created a branch | 5d ago |
 <!-- RECENT:END -->
 
