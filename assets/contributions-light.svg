@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="809" height="217" viewBox="0 0 809 217" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
 <rect width="809" height="217" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="20" y="30" fill="#1f2328" font-size="14" font-weight="600">4,968 contributions in the last year</text>
-<text x="20" y="48" fill="#59636e" font-size="11">@notpritam 2,492 + @notpritamm 2,476</text>
+<text x="20" y="30" fill="#1f2328" font-size="14" font-weight="600">5,055 contributions in the last year</text>
+<text x="20" y="48" fill="#59636e" font-size="11">@notpritam 2,579 + @notpritamm 2,476</text>
 <text x="78" y="72" fill="#59636e" font-size="10">Sep</text>
 <text x="134" y="72" fill="#59636e" font-size="10">Oct</text>
 <text x="190" y="72" fill="#59636e" font-size="10">Nov</text>
@@ -21,12 +21,12 @@
 <rect x="50" y="92" width="11" height="11" rx="2" fill="#4ac26b"><title>8 on 2025-08-25</title></rect>
 <rect x="50" y="106" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2025-08-26</title></rect>
 <rect x="50" y="120" width="11" height="11" rx="2" fill="#aceebb"><title>2 on 2025-08-27</title></rect>
-<rect x="50" y="134" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2025-08-28</title></rect>
+<rect x="50" y="134" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2025-08-28</title></rect>
 <rect x="50" y="148" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2025-08-29</title></rect>
 <rect x="50" y="162" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2025-08-30</title></rect>
 <rect x="64" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2025-08-31</title></rect>
 <rect x="64" y="92" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2025-09-01</title></rect>
-<rect x="64" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2025-09-02</title></rect>
+<rect x="64" y="106" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2025-09-02</title></rect>
 <rect x="64" y="120" width="11" height="11" rx="2" fill="#2da44e"><title>15 on 2025-09-03</title></rect>
 <rect x="64" y="134" width="11" height="11" rx="2" fill="#4ac26b"><title>8 on 2025-09-04</title></rect>
 <rect x="64" y="148" width="11" height="11" rx="2" fill="#4ac26b"><title>6 on 2025-09-05</title></rect>
@@ -36,7 +36,7 @@
 <rect x="78" y="106" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2025-09-09</title></rect>
 <rect x="78" y="120" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2025-09-10</title></rect>
 <rect x="78" y="134" width="11" height="11" rx="2" fill="#4ac26b"><title>5 on 2025-09-11</title></rect>
-<rect x="78" y="148" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2025-09-12</title></rect>
+<rect x="78" y="148" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2025-09-12</title></rect>
 <rect x="78" y="162" width="11" height="11" rx="2" fill="#2da44e"><title>14 on 2025-09-13</title></rect>
 <rect x="92" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2025-09-14</title></rect>
 <rect x="92" y="92" width="11" height="11" rx="2" fill="#4ac26b"><title>6 on 2025-09-15</title></rect>
@@ -44,14 +44,14 @@
 <rect x="92" y="120" width="11" height="11" rx="2" fill="#4ac26b"><title>8 on 2025-09-17</title></rect>
 <rect x="92" y="134" width="11" height="11" rx="2" fill="#aceebb"><title>3 on 2025-09-18</title></rect>
 <rect x="92" y="148" width="11" height="11" rx="2" fill="#4ac26b"><title>5 on 2025-09-19</title></rect>
-<rect x="92" y="162" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2025-09-20</title></rect>
+<rect x="92" y="162" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2025-09-20</title></rect>
 <rect x="106" y="78" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2025-09-21</title></rect>
 <rect x="106" y="92" width="11" height="11" rx="2" fill="#2da44e"><title>12 on 2025-09-22</title></rect>
 <rect x="106" y="106" width="11" height="11" rx="2" fill="#aceebb"><title>4 on 2025-09-23</title></rect>
 <rect x="106" y="120" width="11" height="11" rx="2" fill="#4ac26b"><title>5 on 2025-09-24</title></rect>
 <rect x="106" y="134" width="11" height="11" rx="2" fill="#4ac26b"><title>7 on 2025-09-25</title></rect>
 <rect x="106" y="148" width="11" height="11" rx="2" fill="#4ac26b"><title>7 on 2025-09-26</title></rect>
-<rect x="106" y="162" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2025-09-27</title></rect>
+<rect x="106" y="162" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2025-09-27</title></rect>
 <rect x="120" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2025-09-28</title></rect>
 <rect x="120" y="92" width="11" height="11" rx="2" fill="#aceebb"><title>4 on 2025-09-29</title></rect>
 <rect x="120" y="106" width="11" height="11" rx="2" fill="#4ac26b"><title>7 on 2025-09-30</title></rect>
@@ -111,7 +111,7 @@
 <rect x="232" y="78" width="11" height="11" rx="2" fill="#aceebb"><title>2 on 2025-11-23</title></rect>
 <rect x="232" y="92" width="11" height="11" rx="2" fill="#2da44e"><title>13 on 2025-11-24</title></rect>
 <rect x="232" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>10 on 2025-11-25</title></rect>
-<rect x="232" y="120" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2025-11-26</title></rect>
+<rect x="232" y="120" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2025-11-26</title></rect>
 <rect x="232" y="134" width="11" height="11" rx="2" fill="#2da44e"><title>10 on 2025-11-27</title></rect>
 <rect x="232" y="148" width="11" height="11" rx="2" fill="#aceebb"><title>2 on 2025-11-28</title></rect>
 <rect x="232" y="162" width="11" height="11" rx="2" fill="#116329"><title>27 on 2025-11-29</title></rect>
@@ -130,7 +130,7 @@
 <rect x="260" y="148" width="11" height="11" rx="2" fill="#116329"><title>19 on 2025-12-12</title></rect>
 <rect x="260" y="162" width="11" height="11" rx="2" fill="#2da44e"><title>11 on 2025-12-13</title></rect>
 <rect x="274" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2025-12-14</title></rect>
-<rect x="274" y="92" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2025-12-15</title></rect>
+<rect x="274" y="92" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2025-12-15</title></rect>
 <rect x="274" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>16 on 2025-12-16</title></rect>
 <rect x="274" y="120" width="11" height="11" rx="2" fill="#116329"><title>97 on 2025-12-17</title></rect>
 <rect x="274" y="134" width="11" height="11" rx="2" fill="#116329"><title>62 on 2025-12-18</title></rect>
@@ -176,7 +176,7 @@
 <rect x="358" y="106" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2026-01-27</title></rect>
 <rect x="358" y="120" width="11" height="11" rx="2" fill="#aceebb"><title>4 on 2026-01-28</title></rect>
 <rect x="358" y="134" width="11" height="11" rx="2" fill="#4ac26b"><title>6 on 2026-01-29</title></rect>
-<rect x="358" y="148" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2026-01-30</title></rect>
+<rect x="358" y="148" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2026-01-30</title></rect>
 <rect x="358" y="162" width="11" height="11" rx="2" fill="#aceebb"><title>4 on 2026-01-31</title></rect>
 <rect x="372" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-02-01</title></rect>
 <rect x="372" y="92" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-02-02</title></rect>
@@ -265,7 +265,7 @@
 <rect x="540" y="78" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2026-04-26</title></rect>
 <rect x="540" y="92" width="11" height="11" rx="2" fill="#116329"><title>56 on 2026-04-27</title></rect>
 <rect x="540" y="106" width="11" height="11" rx="2" fill="#116329"><title>33 on 2026-04-28</title></rect>
-<rect x="540" y="120" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2026-04-29</title></rect>
+<rect x="540" y="120" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2026-04-29</title></rect>
 <rect x="540" y="134" width="11" height="11" rx="2" fill="#aceebb"><title>4 on 2026-04-30</title></rect>
 <rect x="540" y="148" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-05-01</title></rect>
 <rect x="540" y="162" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2026-05-02</title></rect>
@@ -273,7 +273,7 @@
 <rect x="554" y="92" width="11" height="11" rx="2" fill="#116329"><title>42 on 2026-05-04</title></rect>
 <rect x="554" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>11 on 2026-05-05</title></rect>
 <rect x="554" y="120" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2026-05-06</title></rect>
-<rect x="554" y="134" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2026-05-07</title></rect>
+<rect x="554" y="134" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2026-05-07</title></rect>
 <rect x="554" y="148" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-05-08</title></rect>
 <rect x="554" y="162" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-05-09</title></rect>
 <rect x="568" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-05-10</title></rect>
@@ -284,7 +284,7 @@
 <rect x="568" y="148" width="11" height="11" rx="2" fill="#4ac26b"><title>7 on 2026-05-15</title></rect>
 <rect x="568" y="162" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-05-16</title></rect>
 <rect x="582" y="78" width="11" height="11" rx="2" fill="#116329"><title>234 on 2026-05-17</title></rect>
-<rect x="582" y="92" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2026-05-18</title></rect>
+<rect x="582" y="92" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2026-05-18</title></rect>
 <rect x="582" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>11 on 2026-05-19</title></rect>
 <rect x="582" y="120" width="11" height="11" rx="2" fill="#2da44e"><title>10 on 2026-05-20</title></rect>
 <rect x="582" y="134" width="11" height="11" rx="2" fill="#aceebb"><title>2 on 2026-05-21</title></rect>
@@ -311,18 +311,18 @@
 <rect x="624" y="134" width="11" height="11" rx="2" fill="#2da44e"><title>15 on 2026-06-11</title></rect>
 <rect x="624" y="148" width="11" height="11" rx="2" fill="#116329"><title>43 on 2026-06-12</title></rect>
 <rect x="624" y="162" width="11" height="11" rx="2" fill="#116329"><title>62 on 2026-06-13</title></rect>
-<rect x="638" y="78" width="11" height="11" rx="2" fill="#116329"><title>55 on 2026-06-14</title></rect>
-<rect x="638" y="92" width="11" height="11" rx="2" fill="#116329"><title>21 on 2026-06-15</title></rect>
+<rect x="638" y="78" width="11" height="11" rx="2" fill="#116329"><title>56 on 2026-06-14</title></rect>
+<rect x="638" y="92" width="11" height="11" rx="2" fill="#116329"><title>46 on 2026-06-15</title></rect>
 <rect x="638" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>13 on 2026-06-16</title></rect>
 <rect x="638" y="120" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2026-06-17</title></rect>
-<rect x="638" y="134" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-06-18</title></rect>
+<rect x="638" y="134" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2026-06-18</title></rect>
 <rect x="638" y="148" width="11" height="11" rx="2" fill="#4ac26b"><title>5 on 2026-06-19</title></rect>
 <rect x="638" y="162" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-06-20</title></rect>
 <rect x="652" y="78" width="11" height="11" rx="2" fill="#2da44e"><title>11 on 2026-06-21</title></rect>
 <rect x="652" y="92" width="11" height="11" rx="2" fill="#116329"><title>22 on 2026-06-22</title></rect>
-<rect x="652" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>11 on 2026-06-23</title></rect>
-<rect x="652" y="120" width="11" height="11" rx="2" fill="#116329"><title>19 on 2026-06-24</title></rect>
-<rect x="652" y="134" width="11" height="11" rx="2" fill="#2da44e"><title>16 on 2026-06-25</title></rect>
+<rect x="652" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>13 on 2026-06-23</title></rect>
+<rect x="652" y="120" width="11" height="11" rx="2" fill="#116329"><title>22 on 2026-06-24</title></rect>
+<rect x="652" y="134" width="11" height="11" rx="2" fill="#116329"><title>18 on 2026-06-25</title></rect>
 <rect x="652" y="148" width="11" height="11" rx="2" fill="#116329"><title>27 on 2026-06-26</title></rect>
 <rect x="652" y="162" width="11" height="11" rx="2" fill="#2da44e"><title>15 on 2026-06-27</title></rect>
 <rect x="666" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-06-28</title></rect>
@@ -350,7 +350,7 @@
 <rect x="708" y="92" width="11" height="11" rx="2" fill="#116329"><title>95 on 2026-07-20</title></rect>
 <rect x="708" y="106" width="11" height="11" rx="2" fill="#116329"><title>30 on 2026-07-21</title></rect>
 <rect x="708" y="120" width="11" height="11" rx="2" fill="#4ac26b"><title>6 on 2026-07-22</title></rect>
-<rect x="708" y="134" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2026-07-23</title></rect>
+<rect x="708" y="134" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2026-07-23</title></rect>
 <rect x="708" y="148" width="11" height="11" rx="2" fill="#aceebb"><title>3 on 2026-07-24</title></rect>
 <rect x="708" y="162" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2026-07-25</title></rect>
 <rect x="722" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-07-26</title></rect>
@@ -362,7 +362,7 @@
 <rect x="722" y="162" width="11" height="11" rx="2" fill="#2da44e"><title>13 on 2026-08-01</title></rect>
 <rect x="736" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-08-02</title></rect>
 <rect x="736" y="92" width="11" height="11" rx="2" fill="#4ac26b"><title>7 on 2026-08-03</title></rect>
-<rect x="736" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2026-08-04</title></rect>
+<rect x="736" y="106" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2026-08-04</title></rect>
 <rect x="736" y="120" width="11" height="11" rx="2" fill="#aceebb"><title>1 on 2026-08-05</title></rect>
 <rect x="736" y="134" width="11" height="11" rx="2" fill="#aceebb"><title>4 on 2026-08-06</title></rect>
 <rect x="736" y="148" width="11" height="11" rx="2" fill="#aceebb"><title>3 on 2026-08-07</title></rect>
@@ -377,16 +377,17 @@
 <rect x="764" y="78" width="11" height="11" rx="2" fill="#ebedf0"><title>0 on 2026-08-16</title></rect>
 <rect x="764" y="92" width="11" height="11" rx="2" fill="#4ac26b"><title>8 on 2026-08-17</title></rect>
 <rect x="764" y="106" width="11" height="11" rx="2" fill="#116329"><title>20 on 2026-08-18</title></rect>
-<rect x="764" y="120" width="11" height="11" rx="2" fill="#2da44e"><title>9 on 2026-08-19</title></rect>
+<rect x="764" y="120" width="11" height="11" rx="2" fill="#4ac26b"><title>9 on 2026-08-19</title></rect>
 <rect x="764" y="134" width="11" height="11" rx="2" fill="#2da44e"><title>11 on 2026-08-20</title></rect>
 <rect x="764" y="148" width="11" height="11" rx="2" fill="#4ac26b"><title>5 on 2026-08-21</title></rect>
 <rect x="764" y="162" width="11" height="11" rx="2" fill="#aceebb"><title>3 on 2026-08-22</title></rect>
 <rect x="778" y="78" width="11" height="11" rx="2" fill="#116329"><title>57 on 2026-08-23</title></rect>
 <rect x="778" y="92" width="11" height="11" rx="2" fill="#116329"><title>32 on 2026-08-24</title></rect>
 <rect x="778" y="106" width="11" height="11" rx="2" fill="#116329"><title>31 on 2026-08-25</title></rect>
-<rect x="778" y="120" width="11" height="11" rx="2" fill="#116329"><title>39 on 2026-08-26</title></rect>
+<rect x="778" y="120" width="11" height="11" rx="2" fill="#116329"><title>50 on 2026-08-26</title></rect>
 <rect x="778" y="134" width="11" height="11" rx="2" fill="#116329"><title>38 on 2026-08-27</title></rect>
-<rect x="778" y="148" width="11" height="11" rx="2" fill="#aceebb"><title>4 on 2026-08-28</title></rect>
+<rect x="778" y="148" width="11" height="11" rx="2" fill="#2da44e"><title>10 on 2026-08-28</title></rect>
+<rect x="778" y="162" width="11" height="11" rx="2" fill="#116329"><title>36 on 2026-08-29</title></rect>
 <text x="673" y="199" fill="#59636e" font-size="10">Less</text>
 <rect x="703" y="190" width="11" height="11" rx="2" fill="#ebedf0"/>
 <rect x="717" y="190" width="11" height="11" rx="2" fill="#aceebb"/>
