@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-13_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 13 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-461-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 461"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-290_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 290 of 365">
+  <img src="https://img.shields.io/badge/current_streak-14_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 14 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-450-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 450"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-287_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 287 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,9 +127,9 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[precmd](https://github.com/notpritam/precmd)** | pushed to `main` | 11h ago |
+| **[precmd](https://github.com/notpritam/precmd)** | pushed to `main` | yesterday |
 | **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | yesterday |
-| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 3d ago |
+| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 4d ago |
 | **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 5d ago |
 | **[exverse](https://github.com/notpritamm/exverse)** | created a branch | 5d ago |
 <!-- RECENT:END -->
@@ -137,7 +137,7 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Real artists ship.*
+> *Design is not just what it looks like and feels like. Design is how it works.*
 >
 > — **Steve Jobs**
 <!-- QUOTE:END -->
