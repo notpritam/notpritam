@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-15_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 15 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-493-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 493"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-288_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 288 of 365">
+  <img src="https://img.shields.io/badge/current_streak-15_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 15 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-520-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 520"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-288_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 288 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,11 +127,11 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[atlas](https://github.com/notpritam/atlas)** | pushed to `main` | 18h ago |
-| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 18h ago |
-| **[precmd](https://github.com/notpritam/precmd)** | pushed to `main` | 2d ago |
-| **[bug-finder](https://github.com/notpritam/bug-finder)** | pushed to `main` | 5d ago |
-| **[exverse](https://github.com/notpritam/exverse)** | pushed to `main` | 6d ago |
+| **[bb-plugin-tally](https://github.com/notpritam/bb-plugin-tally)** | created a branch | 7h ago |
+| **[bb-plugin-mcp-manager](https://github.com/notpritam/bb-plugin-mcp-manager)** | created a branch | 7h ago |
+| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | 7h ago |
+| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v0.2.8 | 8h ago |
+| **[atlas](https://github.com/notpritam/atlas)** | pushed to `main` | yesterday |
 <!-- RECENT:END -->
 
 ---
