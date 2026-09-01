@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-15_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 15 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-520-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 520"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-288_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 288 of 365">
+  <img src="https://img.shields.io/badge/current_streak-16_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 16 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-520-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 520"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-289_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 289 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,19 +127,19 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bb-plugin-tally](https://github.com/notpritam/bb-plugin-tally)** | created a branch | 7h ago |
-| **[bb-plugin-mcp-manager](https://github.com/notpritam/bb-plugin-mcp-manager)** | created a branch | 7h ago |
-| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | 7h ago |
-| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v0.2.8 | 8h ago |
-| **[atlas](https://github.com/notpritam/atlas)** | pushed to `main` | yesterday |
+| **[bb-plugin-tally](https://github.com/notpritam/bb-plugin-tally)** | created a branch | 19h ago |
+| **[bb-plugin-mcp-manager](https://github.com/notpritam/bb-plugin-mcp-manager)** | created a branch | 19h ago |
+| **[bb-plugin-glass](https://github.com/notpritam/bb-plugin-glass)** | pushed to `main` | 19h ago |
+| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | 19h ago |
+| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v0.2.8 | 20h ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *Start with the customer experience and work backwards to the technology.*
+> *Ideas are easy. Implementation is hard.*
 >
-> — **Steve Jobs**
+> — **Guy Kawasaki**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
