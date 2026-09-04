@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-19_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 19 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-602-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 602"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-292_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 292 of 365">
+  <img src="https://img.shields.io/badge/current_streak-19_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 19 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-638-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 638"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-292_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 292 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,11 +127,11 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | 22h ago |
+| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v1.0.2 | 1h ago |
+| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `platform-account` | yesterday |
+| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | yesterday |
 | **[Fable-5.1-Websites](https://github.com/notpritam/Fable-5.1-Websites)** | pushed to `main` | yesterday |
-| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v0.2.9 | 2d ago |
-| **[atlas](https://github.com/notpritam/atlas)** | pushed to `main` | 2d ago |
-| **[bb-plugin-tally](https://github.com/notpritam/bb-plugin-tally)** | created a branch | 3d ago |
+| **[atlas](https://github.com/notpritam/atlas)** | pushed to `main` | 3d ago |
 <!-- RECENT:END -->
 
 ---
