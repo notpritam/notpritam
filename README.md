@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-18_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 18 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-591-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 591"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-291_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 291 of 365">
+  <img src="https://img.shields.io/badge/current_streak-19_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 19 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-602-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 602"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-292_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 292 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,8 +127,8 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[Fable-5.1-Websites](https://github.com/notpritam/Fable-5.1-Websites)** | pushed to `main` | 12h ago |
-| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | yesterday |
+| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | 22h ago |
+| **[Fable-5.1-Websites](https://github.com/notpritam/Fable-5.1-Websites)** | pushed to `main` | yesterday |
 | **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v0.2.9 | 2d ago |
 | **[atlas](https://github.com/notpritam/atlas)** | pushed to `main` | 2d ago |
 | **[bb-plugin-tally](https://github.com/notpritam/bb-plugin-tally)** | created a branch | 3d ago |
@@ -137,9 +137,9 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Make something people want.*
+> *The best way to predict the future is to invent it.*
 >
-> — **Y Combinator**
+> — **Alan Kay**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
