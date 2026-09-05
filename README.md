@@ -127,11 +127,11 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v1.0.2 | 14h ago |
-| **[atlas](https://github.com/notpritam/atlas)** | pushed to `main` | 17h ago |
-| **[emergent-file-storage](https://github.com/notpritam/emergent-file-storage)** | created a branch | 19h ago |
-| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `platform-account` | yesterday |
-| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | yesterday |
+| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v1.0.2 | yesterday |
+| **[atlas](https://github.com/notpritam/atlas)** | pushed to `main` | yesterday |
+| **[emergent-file-storage](https://github.com/notpritam/emergent-file-storage)** | pushed to `main` | yesterday |
+| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `platform-account` | 2d ago |
+| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | 2d ago |
 <!-- RECENT:END -->
 
 ---
