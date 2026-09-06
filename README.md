@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-20_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 20 days"> <img src="https://img.shields.io/badge/longest_streak-20_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 20 days"> <img src="https://img.shields.io/badge/last_30_days-651-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 651"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-293_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 293 of 365">
+  <img src="https://img.shields.io/badge/current_streak-21_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 21 days"> <img src="https://img.shields.io/badge/longest_streak-21_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 21 days"> <img src="https://img.shields.io/badge/last_30_days-693-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 693"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-288_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 288 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,19 +127,19 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v1.0.2 | yesterday |
+| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 1h ago |
+| **[4amcasino](https://github.com/notpritam/4amcasino)** | created a branch | 2h ago |
 | **[atlas](https://github.com/notpritam/atlas)** | pushed to `main` | yesterday |
+| **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v1.0.2 | yesterday |
 | **[emergent-file-storage](https://github.com/notpritam/emergent-file-storage)** | pushed to `main` | yesterday |
-| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `platform-account` | 2d ago |
-| **[bb-plugin-tracker](https://github.com/notpritam/bb-plugin-tracker)** | pushed to `atlas-capture` | 2d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *Simple things should be simple, complex things should be possible.*
+> *Controlling complexity is the essence of computer programming.*
 >
-> — **Alan Kay**
+> — **Brian Kernighan**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
