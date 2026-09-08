@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-22_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 22 days"> <img src="https://img.shields.io/badge/longest_streak-22_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 22 days"> <img src="https://img.shields.io/badge/last_30_days-780-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 780"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-289_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 289 of 365">
+  <img src="https://img.shields.io/badge/current_streak-23_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 23 days"> <img src="https://img.shields.io/badge/longest_streak-23_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 23 days"> <img src="https://img.shields.io/badge/last_30_days-794-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 794"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-290_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 290 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,7 +127,7 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `main` | 6h ago |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `main` | 47m ago |
 | **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | yesterday |
 | **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | yesterday |
 | **[bug-finder-releases](https://github.com/notpritam/bug-finder-releases)** | released v1.1.0 | yesterday |
@@ -137,9 +137,9 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Debugging is twice as hard as writing the code in the first place.*
+> *Testing shows the presence, not the absence, of bugs.*
 >
-> — **Brian Kernighan**
+> — **Edsger W. Dijkstra**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
