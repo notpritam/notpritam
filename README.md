@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-24_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 24 days"> <img src="https://img.shields.io/badge/longest_streak-24_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 24 days"> <img src="https://img.shields.io/badge/last_30_days-882-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 882"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-291_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 291 of 365">
+  <img src="https://img.shields.io/badge/current_streak-24_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 24 days"> <img src="https://img.shields.io/badge/longest_streak-24_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 24 days"> <img src="https://img.shields.io/badge/last_30_days-916-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 916"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-291_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 291 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,11 +127,11 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bb-plugin-mailroom](https://github.com/notpritam/bb-plugin-mailroom)** | pushed to `main` | 1h ago |
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `main` | 12h ago |
-| **[bb-plugin-glass](https://github.com/notpritam/bb-plugin-glass)** | pushed to `main` | 12h ago |
-| **[4amcasino](https://github.com/notpritam/4amcasino)** | created a branch | 13h ago |
-| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 2d ago |
+| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | released v0.2.0-beta.3 | 5h ago |
+| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | opened a pull request | 6h ago |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `foundkeep-gallery` | 7h ago |
+| **[bb-plugin-mailroom](https://github.com/notpritam/bb-plugin-mailroom)** | pushed to `main` | 12h ago |
+| **[bb-plugin-glass](https://github.com/notpritam/bb-plugin-glass)** | pushed to `main` | 23h ago |
 <!-- RECENT:END -->
 
 ---
