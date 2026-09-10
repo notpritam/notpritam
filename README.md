@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-25_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 25 days"> <img src="https://img.shields.io/badge/longest_streak-25_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 25 days"> <img src="https://img.shields.io/badge/last_30_days-917-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 917"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-292_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 292 of 365">
+  <img src="https://img.shields.io/badge/current_streak-25_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 25 days"> <img src="https://img.shields.io/badge/longest_streak-25_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 25 days"> <img src="https://img.shields.io/badge/last_30_days-951-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 951"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-292_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 292 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,11 +127,11 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | created a branch | 34m ago |
-| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 3h ago |
-| **[bb-plugin-guided-review](https://github.com/notpritam/bb-plugin-guided-review)** | released v0.2.1 | 3h ago |
-| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | released v0.2.0-beta.3 | 19h ago |
-| **[bb-plugin-mailroom](https://github.com/notpritam/bb-plugin-mailroom)** | pushed to `main` | yesterday |
+| **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 3h ago |
+| **[marketplace](https://github.com/notpritam/marketplace)** | created a branch | 5h ago |
+| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 5h ago |
+| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | released v0.2.0 | 5h ago |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `mobile-scenic-glass` | 7h ago |
 <!-- RECENT:END -->
 
 ---
