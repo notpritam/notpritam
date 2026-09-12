@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-27_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 27 days"> <img src="https://img.shields.io/badge/longest_streak-27_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 27 days"> <img src="https://img.shields.io/badge/last_30_days-936-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 936"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
+  <img src="https://img.shields.io/badge/current_streak-27_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 27 days"> <img src="https://img.shields.io/badge/longest_streak-27_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 27 days"> <img src="https://img.shields.io/badge/last_30_days-939-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 939"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,11 +127,11 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | opened a pull request | 35m ago |
-| **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | yesterday |
-| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | yesterday |
-| **[marketplace](https://github.com/notpritam/marketplace)** | created a branch | yesterday |
-| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | yesterday |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | opened a pull request | 10h ago |
+| **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 2d ago |
+| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 2d ago |
+| **[marketplace](https://github.com/notpritam/marketplace)** | created a branch | 2d ago |
+| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 2d ago |
 <!-- RECENT:END -->
 
 ---
