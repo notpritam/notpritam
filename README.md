@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-29_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 29 days"> <img src="https://img.shields.io/badge/longest_streak-29_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 29 days"> <img src="https://img.shields.io/badge/last_30_days-1,026-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,026"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-291_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 291 of 365">
+  <img src="https://img.shields.io/badge/current_streak-30_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 30 days"> <img src="https://img.shields.io/badge/longest_streak-30_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 30 days"> <img src="https://img.shields.io/badge/last_30_days-1,060-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,060"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-292_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 292 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,19 +127,19 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 1h ago |
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | released ext-v1.7.11 | 3h ago |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `main` | 2m ago |
+| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 1h ago |
+| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 12h ago |
+| **[4amcasino](https://github.com/notpritam/4amcasino)** | pushed to `main` | 13h ago |
 | **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 4d ago |
-| **[marketplace](https://github.com/notpritam/marketplace)** | created a branch | 4d ago |
-| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 4d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *If you think good architecture is expensive, try bad architecture.*
+> *Programming isn't about what you know; it's about what you can figure out.*
 >
-> — **Brian Foote and Joseph Yoder**
+> — **Chris Pine**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
