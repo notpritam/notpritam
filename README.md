@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-32_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 32 days"> <img src="https://img.shields.io/badge/longest_streak-32_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 32 days"> <img src="https://img.shields.io/badge/last_30_days-1,137-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,137"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
+  <img src="https://img.shields.io/badge/current_streak-32_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 32 days"> <img src="https://img.shields.io/badge/longest_streak-32_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 32 days"> <img src="https://img.shields.io/badge/last_30_days-1,140-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,140"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,10 +127,10 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `admin-console` | 17h ago |
-| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 19h ago |
-| **[mozart-ai-feedback](https://github.com/notpritam/mozart-ai-feedback)** | pushed to `main` | 19h ago |
-| **[foundkeep-claude](https://github.com/notpritam/foundkeep-claude)** | released v1.0.0 | 20h ago |
+| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 6h ago |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `admin-console` | yesterday |
+| **[mozart-ai-feedback](https://github.com/notpritam/mozart-ai-feedback)** | pushed to `main` | yesterday |
+| **[foundkeep-claude](https://github.com/notpritam/foundkeep-claude)** | released v1.0.0 | yesterday |
 | **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 2d ago |
 <!-- RECENT:END -->
 
