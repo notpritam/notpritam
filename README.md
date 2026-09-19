@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-34_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 34 days"> <img src="https://img.shields.io/badge/longest_streak-34_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 34 days"> <img src="https://img.shields.io/badge/last_30_days-1,169-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,169"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-296_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 296 of 365">
+  <img src="https://img.shields.io/badge/current_streak-34_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 34 days"> <img src="https://img.shields.io/badge/longest_streak-34_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 34 days"> <img src="https://img.shields.io/badge/last_30_days-1,290-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,290"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-296_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 296 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,11 +127,11 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[foundkeep-help](https://github.com/notpritam/foundkeep-help)** | pushed to `main` | 21h ago |
-| **[bb-plugin-mailroom](https://github.com/notpritam/bb-plugin-mailroom)** | pushed to `main` | 21h ago |
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `admin-console` | 21h ago |
-| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | yesterday |
-| **[mozart-ai-feedback](https://github.com/notpritam/mozart-ai-feedback)** | pushed to `main` | 2d ago |
+| **[foundkeep-help](https://github.com/notpritam/foundkeep-help)** | pushed to `main` | yesterday |
+| **[bb-plugin-mailroom](https://github.com/notpritam/bb-plugin-mailroom)** | pushed to `main` | yesterday |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `admin-console` | yesterday |
+| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 2d ago |
+| **[mozart-ai-feedback](https://github.com/notpritam/mozart-ai-feedback)** | pushed to `main` | 3d ago |
 <!-- RECENT:END -->
 
 ---
