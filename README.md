@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-1_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 1 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,283-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,283"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-295_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 295 of 365">
+  <img src="https://img.shields.io/badge/current_streak-1_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 1 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,245-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,245"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-295_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 295 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -128,7 +128,7 @@ attached, but they're the bulk of the work.
 | Repo | What | When |
 |---|---|---|
 | **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `main` | 4d ago |
-| **[blog](https://github.com/notpritam/blog)** | pushed to `main` | 5d ago |
+| **[blog](https://github.com/notpritam/blog)** | pushed to `main` | 6d ago |
 | **[foundkeep-help](https://github.com/notpritam/foundkeep-help)** | pushed to `main` | 7d ago |
 | **[bb-plugin-mailroom](https://github.com/notpritam/bb-plugin-mailroom)** | pushed to `main` | 7d ago |
 | **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 8d ago |
@@ -137,9 +137,9 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Show me your flowcharts and conceal your tables, and I shall continue to be mystified. Show me your tables, and I won't usually need your flowcharts.*
+> *Given enough eyeballs, all bugs are shallow.*
 >
-> — **Fred Brooks**
+> — **Eric S. Raymond**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
