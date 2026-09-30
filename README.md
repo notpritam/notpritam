@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-5_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 5 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,255-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,255"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-292_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 292 of 365">
+  <img src="https://img.shields.io/badge/current_streak-6_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 6 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,268-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,268"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-293_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 293 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,11 +127,8 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `product-design` | 3h ago |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `product-design` | 5h ago |
 | **[blog](https://github.com/notpritam/blog)** | pushed to `main` | 10d ago |
-| **[foundkeep-help](https://github.com/notpritam/foundkeep-help)** | pushed to `main` | 11d ago |
-| **[bb-plugin-mailroom](https://github.com/notpritam/bb-plugin-mailroom)** | pushed to `main` | 11d ago |
-| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 12d ago |
 <!-- RECENT:END -->
 
 ---
