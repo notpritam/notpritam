@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-9_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 9 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,410-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,410"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-296_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 296 of 365">
+  <img src="https://img.shields.io/badge/current_streak-10_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 10 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,663-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,663"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-291_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 291 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,15 +127,15 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `product-design` | 6h ago |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `product-design` | 21h ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *If you don't have time to do it right, when will you have time to do it over?*
+> *A ship in harbor is safe, but that is not what ships are built for.*
 >
-> — **John Wooden**
+> — **John A. Shedd**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
