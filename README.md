@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-10_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 10 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,702-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,702"> <img src="https://img.shields.io/badge/busiest_day-311_on_19_Jul-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 311 on 19 Jul"> <img src="https://img.shields.io/badge/active_days-291_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 291 of 365">
+  <img src="https://img.shields.io/badge/current_streak-11_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 11 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,922-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,922"> <img src="https://img.shields.io/badge/busiest_day-315_on_04_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 315 on 04 Oct"> <img src="https://img.shields.io/badge/active_days-292_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 292 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,15 +127,19 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `product-design` | yesterday |
+| **[blog](https://github.com/notpritam/blog)** | pushed to `main` | 1h ago |
+| **[marketplace](https://github.com/notpritam/marketplace)** | pushed to `submit-scoped-skills` | 1h ago |
+| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 1h ago |
+| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 12h ago |
+| **[marketplace](https://github.com/get-bb/marketplace)** | opened a pull request | 13h ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *A ship in harbor is safe, but that is not what ships are built for.*
+> *The details are not the details. They make the design.*
 >
-> — **John A. Shedd**
+> — **Charles Eames**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
