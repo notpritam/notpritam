@@ -115,7 +115,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-12_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 12 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,961-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,961"> <img src="https://img.shields.io/badge/busiest_day-323_on_04_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 323 on 04 Oct"> <img src="https://img.shields.io/badge/active_days-293_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 293 of 365">
+  <img src="https://img.shields.io/badge/current_streak-12_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 12 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-1,983-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 1,983"> <img src="https://img.shields.io/badge/busiest_day-323_on_04_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 323 on 04 Oct"> <img src="https://img.shields.io/badge/active_days-293_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 293 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -127,11 +127,11 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `main` | 4h ago |
-| **[blog](https://github.com/notpritam/blog)** | pushed to `main` | 5h ago |
-| **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 16h ago |
+| **[foundkeep](https://github.com/notpritam/foundkeep)** | pushed to `main` | 14h ago |
+| **[blog](https://github.com/notpritam/blog)** | pushed to `main` | 15h ago |
+| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | pushed to `main` | 15h ago |
+| **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | yesterday |
 | **[marketplace](https://github.com/notpritam/marketplace)** | pushed to `submit-scoped-skills` | yesterday |
-| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | yesterday |
 <!-- RECENT:END -->
 
 ---
