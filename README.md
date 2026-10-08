@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-13_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 13 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-3,006-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,006"> <img src="https://img.shields.io/badge/busiest_day-851_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 851 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
+  <img src="https://img.shields.io/badge/current_streak-14_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 14 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-3,472-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,472"> <img src="https://img.shields.io/badge/busiest_day-979_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 979 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,19 +139,19 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 10h ago |
-| **[blog](https://github.com/notpritam/blog)** | pushed to `main` | 16h ago |
-| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | pushed to `main` | yesterday |
+| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 18h ago |
+| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 23h ago |
+| **[blog](https://github.com/notpritam/blog)** | pushed to `main` | yesterday |
 | **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 2d ago |
-| **[marketplace](https://github.com/notpritam/marketplace)** | pushed to `submit-scoped-skills` | 2d ago |
+| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 3d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *Build half a product, not a half-assed product.*
+> *There is nothing so useless as doing efficiently that which should not be done at all.*
 >
-> — **37signals**
+> — **Peter Drucker**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
