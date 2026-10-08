@@ -19,6 +19,17 @@
 
 ---
 
+## `// now building`
+
+<a href="https://notpritam.in/projects/bug"><img src="assets/bug-dossier-film.jpg" alt="Bug Dossier launch film: watch it on notpritam.in" width="100%"></a>
+
+**[Bug Dossier](https://bugdossier.com)**: report a bug once and it carries everything a developer needs. Hit record, reproduce
+it, submit. The video, the steps, the network calls and what they returned, console errors, browser and app version, all
+in one link. Your coding agent reads it over MCP and tells you what broke, what changed and why. No more back-and-forth
+with QA.
+
+In private beta · [Chrome extension](https://chromewebstore.google.com/detail/bug-dossier/nljfaocpdpoijkinipdijgdemefflnoe) · [Watch the 78-second film](https://notpritam.in/projects/bug) · [Get early access](https://bugdossier.com/waitlist)
+
 ## `// about`
 
 I build calm, fast products — from scratch and at scale.
@@ -52,6 +63,7 @@ every product surface, shipping **3–4 features a day**.
 
 | Project | What it is | Stack |
 |---|---|---|
+| **[Bug Dossier](https://bugdossier.com)** | Bug reports that carry everything: recording, network with responses, console, environment. Coding agents read them over MCP and post the root cause | `Go` `React` `Chrome MV3` `MCP` |
 | **[personae](https://github.com/notpritam/personae)** | AI avatar platform — autonomous personas on Instagram, Telegram & X, with voice and face generation | `React` `Hono` `Claude API` `ElevenLabs` |
 | **[forge](https://github.com/notpritam/forge)** | Self-improving AI video pipeline — stage-gated, 5 renderers, 130+ viral rules distilled from 35+ sources | `Remotion` `Manim` `Three.js` `FFmpeg` |
 | **[lorekeeper](https://github.com/notpritam/lorekeeper)** | AI story workbench — versioned character state and knowledge matrices for narrative consistency | `React` `Hono` `Claude CLI` |
