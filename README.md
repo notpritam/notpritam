@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-14_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 14 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-3,591-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,591"> <img src="https://img.shields.io/badge/busiest_day-979_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 979 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
+  <img src="https://img.shields.io/badge/current_streak-15_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 15 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-3,565-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,565"> <img src="https://img.shields.io/badge/busiest_day-979_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 979 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-295_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 295 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -140,18 +140,18 @@ attached, but they're the bulk of the work.
 | Repo | What | When |
 |---|---|---|
 | **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | yesterday |
+| **[blog](https://github.com/notpritam/blog)** | pushed to `main` | yesterday |
 | **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 3d ago |
-| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 3d ago |
+| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 4d ago |
 | **[foundkeep-claude](https://github.com/notpritam/foundkeep-claude)** | released v1.0.0 | 22d ago |
-| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | released v0.2.0 | 28d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *There is nothing so useless as doing efficiently that which should not be done at all.*
+> *In theory there is no difference between theory and practice. In practice there is.*
 >
-> — **Peter Drucker**
+> — **Yogi Berra**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
