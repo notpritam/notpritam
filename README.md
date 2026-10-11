@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-17_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 17 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-3,938-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,938"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-291_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 291 of 365">
+  <img src="https://img.shields.io/badge/current_streak-17_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 17 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-4,044-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,044"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-291_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 291 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,10 +139,10 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.0 | 2h ago |
-| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 2h ago |
-| **[blog](https://github.com/notpritam/blog)** | pushed to `main` | 3d ago |
-| **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 5d ago |
+| **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 1h ago |
+| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 3h ago |
+| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 12h ago |
+| **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 6d ago |
 | **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 6d ago |
 <!-- RECENT:END -->
 
