@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-19_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 19 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-4,727-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,727"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-293_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 293 of 365">
+  <img src="https://img.shields.io/badge/current_streak-20_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 20 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-4,812-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,812"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -141,17 +141,17 @@ attached, but they're the bulk of the work.
 |---|---|---|
 | **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | created a branch | 2d ago |
 | **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 2d ago |
-| **[bb-plugin-local-voice](https://github.com/notpritam/bb-plugin-local-voice)** | pushed to `main` | 2d ago |
 | **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 8d ago |
 | **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 8d ago |
+| **[foundkeep-claude](https://github.com/notpritam/foundkeep-claude)** | released v1.0.0 | 27d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *It compiles. Ship it.*
+> *The road to production is paved with 'it works on my machine.'*
 >
-> — **Every engineer at 2am**
+> — **Anonymous**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
