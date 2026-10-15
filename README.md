@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-20_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 20 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-4,952-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,952"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
+  <img src="https://img.shields.io/badge/current_streak-21_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 21 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-5,028-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 5,028"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-295_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 295 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -148,9 +148,9 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *The road to production is paved with 'it works on my machine.'*
+> *Simplicity is prerequisite for reliability.*
 >
-> — **Anonymous**
+> — **Edsger W. Dijkstra**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
