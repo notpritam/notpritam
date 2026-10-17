@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-22_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 22 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-5,341-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 5,341"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-296_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 296 of 365">
+  <img src="https://img.shields.io/badge/current_streak-23_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 23 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-5,499-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 5,499"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-297_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 297 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,7 +139,7 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | yesterday |
+| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | pushed to `main` | yesterday |
 | **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 5d ago |
 | **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 11d ago |
 | **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 11d ago |
@@ -148,9 +148,9 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Programs must be written for people to read, and only incidentally for machines to execute.*
+> *Premature optimization is the root of all evil.*
 >
-> — **Harold Abelson**
+> — **Donald Knuth**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
