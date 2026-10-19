@@ -140,10 +140,10 @@ attached, but they're the bulk of the work.
 | Repo | What | When |
 |---|---|---|
 | **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 2d ago |
-| **[bb-plugin-waiting](https://github.com/notpritam/bb-plugin-waiting)** | pushed to `main` | 2d ago |
-| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 3d ago |
-| **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 7d ago |
-| **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 13d ago |
+| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 4d ago |
+| **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 8d ago |
+| **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 14d ago |
+| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 14d ago |
 <!-- RECENT:END -->
 
 ---
