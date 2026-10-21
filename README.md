@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-26_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 26 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-5,787-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 5,787"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-293_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 293 of 365">
+  <img src="https://img.shields.io/badge/current_streak-27_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 27 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-5,782-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 5,782"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-294_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 294 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,7 +139,7 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 3d ago |
+| **[bb-marketplace](https://github.com/notpritam/bb-marketplace)** | pushed to `main` | 4d ago |
 | **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 5d ago |
 | **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 9d ago |
 | **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 15d ago |
@@ -149,7 +149,7 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Make it work, make it right, make it fast.*
+> *Optimism is an occupational hazard of programming. Feedback is the treatment.*
 >
 > — **Kent Beck**
 <!-- QUOTE:END -->
