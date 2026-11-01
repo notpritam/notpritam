@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-37_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 37 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-6,726-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 6,726"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-300_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 300 of 365">
+  <img src="https://img.shields.io/badge/current_streak-38_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 38 days"> <img src="https://img.shields.io/badge/longest_streak-38_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 38 days"> <img src="https://img.shields.io/badge/last_30_days-6,739-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 6,739"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-296_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 296 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,19 +139,18 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 3d ago |
 | **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 16d ago |
 | **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 20d ago |
 | **[marketplace](https://github.com/get-bb/marketplace)** | merged a pull request | 26d ago |
-| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 26d ago |
+| **[bb-plugin-scoped-skills](https://github.com/notpritam/bb-plugin-scoped-skills)** | released v0.2.1 | 27d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.*
+> *Real artists ship.*
 >
-> — **Antoine de Saint-Exupery**
+> — **Steve Jobs**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
