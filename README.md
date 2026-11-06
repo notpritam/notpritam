@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-42_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 42 days"> <img src="https://img.shields.io/badge/longest_streak-42_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 42 days"> <img src="https://img.shields.io/badge/last_30_days-6,027-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 6,027"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-300_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 300 of 365">
+  <img src="https://img.shields.io/badge/current_streak-43_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 43 days"> <img src="https://img.shields.io/badge/longest_streak-43_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 43 days"> <img src="https://img.shields.io/badge/last_30_days-5,051-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 5,051"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-301_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 301 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,7 +139,7 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 2d ago |
+| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 3d ago |
 | **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 21d ago |
 | **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 25d ago |
 <!-- RECENT:END -->
@@ -147,9 +147,9 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Do things that don't scale.*
+> *Make something people want.*
 >
-> — **Paul Graham**
+> — **Y Combinator**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
