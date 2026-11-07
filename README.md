@@ -139,9 +139,9 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 3d ago |
-| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 22d ago |
-| **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 26d ago |
+| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 4d ago |
+| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 23d ago |
+| **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 27d ago |
 <!-- RECENT:END -->
 
 ---
