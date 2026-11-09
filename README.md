@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-46_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 46 days"> <img src="https://img.shields.io/badge/longest_streak-46_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 46 days"> <img src="https://img.shields.io/badge/last_30_days-4,611-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,611"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-299_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 299 of 365">
+  <img src="https://img.shields.io/badge/current_streak-46_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 46 days"> <img src="https://img.shields.io/badge/longest_streak-46_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 46 days"> <img src="https://img.shields.io/badge/last_30_days-4,767-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,767"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-299_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 299 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -140,8 +140,8 @@ attached, but they're the bulk of the work.
 | Repo | What | When |
 |---|---|---|
 | **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 6d ago |
-| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 24d ago |
-| **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 28d ago |
+| **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 25d ago |
+| **[zeus-icons](https://github.com/notpritam/zeus-icons)** | released v0.1.1 | 29d ago |
 <!-- RECENT:END -->
 
 ---
