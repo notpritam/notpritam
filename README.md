@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-48_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 48 days"> <img src="https://img.shields.io/badge/longest_streak-48_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 48 days"> <img src="https://img.shields.io/badge/last_30_days-4,057-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,057"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-301_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 301 of 365">
+  <img src="https://img.shields.io/badge/current_streak-49_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 49 days"> <img src="https://img.shields.io/badge/longest_streak-49_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 49 days"> <img src="https://img.shields.io/badge/last_30_days-3,805-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,805"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-302_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 302 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,14 +139,14 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 8d ago |
+| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 9d ago |
 | **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 27d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *Testing shows the presence, not the absence, of bugs.*
+> *The competent programmer is fully aware of the limited size of his own skull.*
 >
 > — **Edsger W. Dijkstra**
 <!-- QUOTE:END -->
