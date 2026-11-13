@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-49_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 49 days"> <img src="https://img.shields.io/badge/longest_streak-49_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 49 days"> <img src="https://img.shields.io/badge/last_30_days-3,819-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,819"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-302_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 302 of 365">
+  <img src="https://img.shields.io/badge/current_streak-50_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 50 days"> <img src="https://img.shields.io/badge/longest_streak-50_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 50 days"> <img src="https://img.shields.io/badge/last_30_days-3,553-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,553"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-303_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 303 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,16 +139,16 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 9d ago |
+| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 10d ago |
 | **[bb-plugin-inbox](https://github.com/notpritam/bb-plugin-inbox)** | merged a pull request | 28d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *The competent programmer is fully aware of the limited size of his own skull.*
+> *Code is like humor. When you have to explain it, it's bad.*
 >
-> — **Edsger W. Dijkstra**
+> — **Cory House**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
