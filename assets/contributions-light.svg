@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="809" height="217" viewBox="0 0 809 217" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
 <rect width="809" height="217" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="20" y="30" fill="#1f2328" font-size="14" font-weight="600">14,083 contributions in the last year</text>
-<text x="20" y="48" fill="#59636e" font-size="11">@notpritam 11,556 + @notpritamm 2,527</text>
+<text x="20" y="30" fill="#1f2328" font-size="14" font-weight="600">14,095 contributions in the last year</text>
+<text x="20" y="48" fill="#59636e" font-size="11">@notpritam 11,559 + @notpritamm 2,536</text>
 <text x="92" y="72" fill="#59636e" font-size="10">Dec</text>
 <text x="148" y="72" fill="#59636e" font-size="10">Jan</text>
 <text x="204" y="72" fill="#59636e" font-size="10">Feb</text>
@@ -383,7 +383,7 @@
 <rect x="764" y="162" width="11" height="11" rx="2" fill="#2da44e"><title>18 on 2026-11-14</title></rect>
 <rect x="778" y="78" width="11" height="11" rx="2" fill="#aceebb"><title>4 on 2026-11-15</title></rect>
 <rect x="778" y="92" width="11" height="11" rx="2" fill="#116329"><title>90 on 2026-11-16</title></rect>
-<rect x="778" y="106" width="11" height="11" rx="2" fill="#2da44e"><title>33 on 2026-11-17</title></rect>
+<rect x="778" y="106" width="11" height="11" rx="2" fill="#116329"><title>45 on 2026-11-17</title></rect>
 <text x="673" y="199" fill="#59636e" font-size="10">Less</text>
 <rect x="703" y="190" width="11" height="11" rx="2" fill="#ebedf0"/>
 <rect x="717" y="190" width="11" height="11" rx="2" fill="#aceebb"/>
