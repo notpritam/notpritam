@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-55_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 55 days"> <img src="https://img.shields.io/badge/longest_streak-55_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 55 days"> <img src="https://img.shields.io/badge/last_30_days-2,690-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 2,690"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-307_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 307 of 365">
+  <img src="https://img.shields.io/badge/current_streak-56_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 56 days"> <img src="https://img.shields.io/badge/longest_streak-56_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 56 days"> <img src="https://img.shields.io/badge/last_30_days-2,678-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 2,678"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-308_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 308 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,15 +139,15 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 15d ago |
+| **[zeus-ui-site](https://github.com/notpritam/zeus-ui-site)** | pushed to `main` | 16d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *Programming isn't about what you know; it's about what you can figure out.*
+> *The function of good software is to make the complex appear simple.*
 >
-> — **Chris Pine**
+> — **Grady Booch**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
