@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-57_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 57 days"> <img src="https://img.shields.io/badge/longest_streak-57_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 57 days"> <img src="https://img.shields.io/badge/last_30_days-2,811-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 2,811"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-309_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 309 of 365">
+  <img src="https://img.shields.io/badge/current_streak-58_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 58 days"> <img src="https://img.shields.io/badge/longest_streak-58_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 58 days"> <img src="https://img.shields.io/badge/last_30_days-2,855-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 2,855"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-310_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 310 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -145,9 +145,9 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Everything should be made as simple as possible, but no simpler.*
+> *You aren't gonna need it.*
 >
-> — **Albert Einstein**
+> — **Ron Jeffries**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
