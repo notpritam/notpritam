@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-59_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 59 days"> <img src="https://img.shields.io/badge/longest_streak-59_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 59 days"> <img src="https://img.shields.io/badge/last_30_days-3,122-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,122"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-306_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 306 of 365">
+  <img src="https://img.shields.io/badge/current_streak-59_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 59 days"> <img src="https://img.shields.io/badge/longest_streak-59_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 59 days"> <img src="https://img.shields.io/badge/last_30_days-3,546-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 3,546"> <img src="https://img.shields.io/badge/busiest_day-981_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 981 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-306_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 306 of 365">
 </p>
 <!-- STATS:END -->
 
