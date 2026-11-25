@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-61_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 61 days"> <img src="https://img.shields.io/badge/longest_streak-61_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 61 days"> <img src="https://img.shields.io/badge/last_30_days-4,741-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,741"> <img src="https://img.shields.io/badge/busiest_day-1002_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 1002 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-308_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 308 of 365">
+  <img src="https://img.shields.io/badge/current_streak-62_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 62 days"> <img src="https://img.shields.io/badge/longest_streak-62_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 62 days"> <img src="https://img.shields.io/badge/last_30_days-4,688-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,688"> <img src="https://img.shields.io/badge/busiest_day-1001_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 1001 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-309_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 309 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -139,15 +139,15 @@ attached, but they're the bulk of the work.
 <!-- RECENT:START -->
 | Repo | What | When |
 |---|---|---|
-| **[bb-plugin-waiting](https://github.com/notpritam/bb-plugin-waiting)** | pushed to `main` | 2d ago |
+| **[bb-plugin-waiting](https://github.com/notpritam/bb-plugin-waiting)** | pushed to `main` | 3d ago |
 <!-- RECENT:END -->
 
 ---
 
 <!-- QUOTE:START -->
-> *Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*
+> *Adding manpower to a late software project makes it later.*
 >
-> — **Bill Gates**
+> — **Fred Brooks**
 <!-- QUOTE:END -->
 
 <sub>Graph, stats and quote refresh themselves every morning via
