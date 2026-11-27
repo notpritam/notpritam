@@ -127,7 +127,7 @@ generated daily from both calendars, summed day by day:
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/current_streak-63_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 63 days"> <img src="https://img.shields.io/badge/longest_streak-63_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 63 days"> <img src="https://img.shields.io/badge/last_30_days-4,877-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,877"> <img src="https://img.shields.io/badge/busiest_day-1000_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 1000 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-310_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 310 of 365">
+  <img src="https://img.shields.io/badge/current_streak-64_days-39d353?style=flat-square&labelColor=161b22" alt="current streak: 64 days"> <img src="https://img.shields.io/badge/longest_streak-64_days-26a641?style=flat-square&labelColor=161b22" alt="longest streak: 64 days"> <img src="https://img.shields.io/badge/last_30_days-4,946-006d32?style=flat-square&labelColor=161b22" alt="last 30 days: 4,946"> <img src="https://img.shields.io/badge/busiest_day-999_on_07_Oct-0e4429?style=flat-square&labelColor=161b22" alt="busiest day: 999 on 07 Oct"> <img src="https://img.shields.io/badge/active_days-311_of_365-30363d?style=flat-square&labelColor=161b22" alt="active days: 311 of 365">
 </p>
 <!-- STATS:END -->
 
@@ -145,7 +145,7 @@ attached, but they're the bulk of the work.
 ---
 
 <!-- QUOTE:START -->
-> *Plan to throw one away; you will, anyhow.*
+> *Nine women can't make a baby in one month.*
 >
 > — **Fred Brooks**
 <!-- QUOTE:END -->
